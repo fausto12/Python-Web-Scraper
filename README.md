@@ -1,2 +1,2 @@
 # Python Web Scraper
- BS4 python library
+ utilizes BS4 python library to scrape a site.  
